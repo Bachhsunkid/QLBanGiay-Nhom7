@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nhom8.QuanLyBanGiay.User", "Nhom8.QuanLyBanGiay.User\Nhom8.QuanLyBanGiay.User.csproj", "{94D5A245-4CF7-4DA6-AC3D-A40390D0E83C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nhom8.QuanlyBanGiay.Admin", "Nhom8.QuanlyBanGiay.Admin\Nhom8.QuanlyBanGiay.Admin.csproj", "{427DA39D-CE51-4E36-8A06-8F879E6E002D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94D5A245-4CF7-4DA6-AC3D-A40390D0E83C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D5A245-4CF7-4DA6-AC3D-A40390D0E83C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D5A245-4CF7-4DA6-AC3D-A40390D0E83C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D5A245-4CF7-4DA6-AC3D-A40390D0E83C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{427DA39D-CE51-4E36-8A06-8F879E6E002D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{427DA39D-CE51-4E36-8A06-8F879E6E002D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{427DA39D-CE51-4E36-8A06-8F879E6E002D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{427DA39D-CE51-4E36-8A06-8F879E6E002D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D9FFC51-6C75-45D9-BD52-98EE0A812296}
+	EndGlobalSection
+EndGlobal
