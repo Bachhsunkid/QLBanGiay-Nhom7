@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nhom8.QuanlyBanGiay.Admin.props" />
+</Project>

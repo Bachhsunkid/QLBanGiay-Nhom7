@@ -1,0 +1,221 @@
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\appsettings.Development.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\appsettings.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.staticwebassets.runtime.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.exe
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.deps.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.runtimeconfig.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.pdb
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.csproj.AssemblyReference.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.AssemblyInfoInputs.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.AssemblyInfo.cs
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.csproj.CoreCompileInputs.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.MvcApplicationPartsAssemblyInfo.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.RazorAssemblyInfo.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.RazorAssemblyInfo.cs
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\staticwebassets.build.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\staticwebassets.development.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\scopedcss\bundle\Nhom8.QuanLyBanGiay.User.styles.css
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\scopedcss\projectbundle\Nhom8.QuanLyBanGiay.User.bundle.scp.css
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\refint\Nhom8.QuanLyBanGiay.User.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.pdb
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.genruntimeconfig.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\ref\Nhom8.QuanLyBanGiay.User.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\appsettings.Development.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\appsettings.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.staticwebassets.runtime.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.exe
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.deps.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.runtimeconfig.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.pdb
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.csproj.AssemblyReference.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.AssemblyInfoInputs.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.AssemblyInfo.cs
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.csproj.CoreCompileInputs.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.MvcApplicationPartsAssemblyInfo.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.RazorAssemblyInfo.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.RazorAssemblyInfo.cs
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\staticwebassets.build.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\staticwebassets.development.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\scopedcss\bundle\Nhom8.QuanLyBanGiay.User.styles.css
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\scopedcss\projectbundle\Nhom8.QuanLyBanGiay.User.bundle.scp.css
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\refint\Nhom8.QuanLyBanGiay.User.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.pdb
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.genruntimeconfig.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\BTL\BanGiay\Nhom8.QuanLyBanGiay\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\ref\Nhom8.QuanLyBanGiay.User.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\appsettings.json
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.staticwebassets.runtime.json
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.exe
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.deps.json
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.runtimeconfig.json
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.pdb
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.csproj.AssemblyReference.cache
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.AssemblyInfoInputs.cache
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.AssemblyInfo.cs
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.csproj.CoreCompileInputs.cache
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.RazorAssemblyInfo.cache
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.RazorAssemblyInfo.cs
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\staticwebassets\msbuild.Nhom8.QuanLyBanGiay.User.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\staticwebassets\msbuild.build.Nhom8.QuanLyBanGiay.User.props
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Nhom8.QuanLyBanGiay.User.props
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Nhom8.QuanLyBanGiay.User.props
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\scopedcss\bundle\Nhom8.QuanLyBanGiay.User.styles.css
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\scopedcss\projectbundle\Nhom8.QuanLyBanGiay.User.bundle.scp.css
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.csproj.CopyComplete
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\refint\Nhom8.QuanLyBanGiay.User.dll
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.pdb
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.genruntimeconfig.cache
+C:\Users\Quys\Source\Repos\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\ref\Nhom8.QuanLyBanGiay.User.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\appsettings.Development.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\appsettings.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.staticwebassets.runtime.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.exe
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.deps.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.runtimeconfig.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Nhom8.QuanLyBanGiay.User.pdb
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Azure.Core.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Azure.Identity.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Humanizer.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.CodeDom.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Memory.Data.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Text.Json.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.csproj.AssemblyReference.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.AssemblyInfoInputs.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.AssemblyInfo.cs
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.csproj.CoreCompileInputs.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.MvcApplicationPartsAssemblyInfo.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.RazorAssemblyInfo.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.RazorAssemblyInfo.cs
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\staticwebassets.build.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\staticwebassets.development.json
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\scopedcss\bundle\Nhom8.QuanLyBanGiay.User.styles.css
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\scopedcss\projectbundle\Nhom8.QuanLyBanGiay.User.bundle.scp.css
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.csproj.CopyComplete
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\refint\Nhom8.QuanLyBanGiay.User.dll
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.pdb
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\Nhom8.QuanLyBanGiay.User.genruntimeconfig.cache
+D:\UTC di hoc\ki6\lap-trinh-web-6-4\QuanlyBanGiay-Nhom8\Nhom8.QuanLyBanGiay.User\obj\Debug\net6.0\ref\Nhom8.QuanLyBanGiay.User.dll

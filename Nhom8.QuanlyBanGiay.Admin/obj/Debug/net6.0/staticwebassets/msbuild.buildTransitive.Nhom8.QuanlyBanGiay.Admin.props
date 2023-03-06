@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Nhom8.QuanlyBanGiay.Admin.props" />
+</Project>

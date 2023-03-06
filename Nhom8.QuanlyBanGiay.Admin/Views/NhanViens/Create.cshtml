@@ -1,0 +1,69 @@
+﻿@model Nhom8.QuanlyBanGiay.Admin.Models.NhanVien
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Thêm mới nhân viên</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="MaNv" class="control-label">Mã nhân viên</label>
+                <input asp-for="MaNv" class="form-control" />
+                <span asp-validation-for="MaNv" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TaiKhoan" class="control-label">Tài khoản</label>
+                <input asp-for="TaiKhoan" class="form-control" />
+                <span asp-validation-for="TaiKhoan" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MatKhau" class="control-label">Mật khẩu</label>
+                <input asp-for="MatKhau" class="form-control" />
+                <span asp-validation-for="MatKhau" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GioiTinh" class="control-label">Giới tính (Nam - 0 / Nữ - 1)</label>
+                <input asp-for="GioiTinh" class="form-control" />
+                <span asp-validation-for="GioiTinh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HoTenNv" class="control-label">Họ tên nhân viên</label>
+                <input asp-for="HoTenNv" class="form-control" />
+                <span asp-validation-for="HoTenNv" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NgaySinh" class="control-label">Ngày sinh</label>
+                <input asp-for="NgaySinh" class="form-control" />
+                <span asp-validation-for="NgaySinh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SoDienThoai" class="control-label">SĐT</label>
+                <input asp-for="SoDienThoai" class="form-control" />
+                <span asp-validation-for="SoDienThoai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ChucVu" class="control-label">Chức vụ</label>
+                <input asp-for="ChucVu" class="form-control" />
+                <span asp-validation-for="ChucVu" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Luong" class="control-label">Lương</label>
+                <input asp-for="Luong" class="form-control" />
+                <span asp-validation-for="Luong" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TinhTrangCongViec" class="control-label">Tình trạng công  việc</label>
+                <input asp-for="TinhTrangCongViec" class="form-control" />
+                <span asp-validation-for="TinhTrangCongViec" class="text-danger"></span>
+            </div>
+            <div class="form-group" style="margin-top: 20px">
+                <input type="submit" value="Create" class="btn btn-primary" /> |
+                <a asp-action="Index" asp-controller="Home">Quay lại</a>
+            </div>
+        </form>
+    </div>
+</div>

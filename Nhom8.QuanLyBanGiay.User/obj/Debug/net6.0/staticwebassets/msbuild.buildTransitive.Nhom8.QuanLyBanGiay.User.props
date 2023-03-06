@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Nhom8.QuanLyBanGiay.User.props" />
+</Project>
