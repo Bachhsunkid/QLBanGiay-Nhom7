@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\QuanlyBanGiay-Nhom8\\Nhom8.QuanLyBanGiay.User\\Nhom8.QuanLyBanGiay.User.csproj": {}
+    "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\Nhom8.QuanLyBanGiay.User.csproj": {}
   },
   "projects": {
-    "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\QuanlyBanGiay-Nhom8\\Nhom8.QuanLyBanGiay.User\\Nhom8.QuanLyBanGiay.User.csproj": {
+    "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\Nhom8.QuanLyBanGiay.User.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\QuanlyBanGiay-Nhom8\\Nhom8.QuanLyBanGiay.User\\Nhom8.QuanLyBanGiay.User.csproj",
+        "projectUniqueName": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\Nhom8.QuanLyBanGiay.User.csproj",
         "projectName": "Nhom8.QuanLyBanGiay.User",
-        "projectPath": "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\QuanlyBanGiay-Nhom8\\Nhom8.QuanLyBanGiay.User\\Nhom8.QuanLyBanGiay.User.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\QuanlyBanGiay-Nhom8\\Nhom8.QuanLyBanGiay.User\\obj\\",
+        "projectPath": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\Nhom8.QuanLyBanGiay.User.csproj",
+        "packagesPath": "C:\\Users\\Hung\\.nuget\\packages\\",
+        "outputPath": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -53,6 +53,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.12, )"
             }
           },
           "imports": [
@@ -74,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -10510,19 +10510,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\Hung\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\QuanlyBanGiay-Nhom8\\Nhom8.QuanlyBanGiay.Admin\\Nhom8.QuanlyBanGiay.Admin.csproj",
+      "projectUniqueName": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\Nhom8.QuanlyBanGiay.Admin.csproj",
       "projectName": "Nhom8.QuanlyBanGiay.Admin",
-      "projectPath": "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\QuanlyBanGiay-Nhom8\\Nhom8.QuanlyBanGiay.Admin\\Nhom8.QuanlyBanGiay.Admin.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\QuanlyBanGiay-Nhom8\\Nhom8.QuanlyBanGiay.Admin\\obj\\",
+      "projectPath": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\Nhom8.QuanlyBanGiay.Admin.csproj",
+      "packagesPath": "C:\\Users\\Hung\\.nuget\\packages\\",
+      "outputPath": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hung\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10586,7 +10586,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
