@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "v/eBimi3LMnIS6MS01NDCq5part+Ikl61b7fDLq6H1s=",
+  "Hash": "h5XuvFgndgMCcOjoEY0KbVOxWgRX5bkvVzbxRriMDvs=",
   "Source": "Nhom8.QuanLyBanGiay.User",
   "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Nhom8.QuanLyBanGiay.User\\wwwroot",
       "Source": "Nhom8.QuanLyBanGiay.User",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Nhom8.QuanLyBanGiay.User.styles.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Nhom8.QuanLyBanGiay.User.styles.css",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "Nhom8.QuanLyBanGiay.User.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Nhom8.QuanLyBanGiay.User.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Nhom8.QuanLyBanGiay.User.styles.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nhom8.QuanLyBanGiay.User.bundle.scp.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nhom8.QuanLyBanGiay.User.bundle.scp.css",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "Nhom8.QuanLyBanGiay.User.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nhom8.QuanLyBanGiay.User.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nhom8.QuanLyBanGiay.User.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\about.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\about.css",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "css/about.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\about.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\bootstrap.css",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\checkout.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\checkout.css",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "css/checkout.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\checkout.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\contact.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\contact.css",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "css/contact.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\contact.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\creditly.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\creditly.css",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "css/creditly.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\creditly.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\customize.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\customize.css",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "css/customize.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\customize.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\easy-responsive-tabs.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\easy-responsive-tabs.css",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "css/easy-responsive-tabs.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\easy-responsive-tabs.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\flexslider.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\flexslider.css",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "css/flexslider.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\flexslider.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\font-awesome.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\font-awesome.css",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "css/font-awesome.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\jquery-ui1.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\jquery-ui1.css",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "css/jquery-ui1.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery-ui1.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\shop.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\shop.css",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "css/shop.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shop.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\style.css",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\style7.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\style7.css",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "css/style7.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style7.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\FontAwesome.otf",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "fonts/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "fonts/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "fonts/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "fonts/glyphicons-halflings-regular.woff2",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\3.jpeg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\3.jpeg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/3.jpeg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\3.jpeg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\ab.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\ab.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/ab.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ab.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\b1.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\b1.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/b1.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\b1.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\b2.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\b2.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/b2.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\b2.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\b3.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\b3.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/b3.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\b3.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\b4.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\b4.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/b4.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\b4.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\banner1.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\banner1.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/banner1.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner1.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\banner2.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\banner2.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/banner2.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner2.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\banner3.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\banner3.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/banner3.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner3.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\banner4.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\banner4.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/banner4.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner4.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\close.png",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\close.png",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/close.png",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\close.png"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\close_1.JPG",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\close_1.JPG",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/close_1.JPG",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\close_1.JPG"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\d1.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\d1.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/d1.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\d1.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\d2.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\d2.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/d2.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\d2.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\d3.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\d3.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/d3.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\d3.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g1.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g1.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/g1.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g1.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g2.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g2.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/g2.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g2.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g3.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g3.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/g3.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g3.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g4.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g4.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/g4.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g4.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g5.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g5.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/g5.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g5.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g6.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g6.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/g6.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\g6.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\left.png",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\left.png",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/left.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\left.png"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\left_black.png",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\left_black.png",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/left_black.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\left_black.png"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\move-top.png",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\move-top.png",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/move-top.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\move-top.png"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\overlay.png",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\overlay.png",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/overlay.png",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\overlay.png"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\paypal.png",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\paypal.png",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/paypal.png",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paypal.png"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\right.png",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\right.png",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/right.png",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\right.png"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\right_black.png",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\right_black.png",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/right_black.png",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\images\\right_black.png"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s1.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s1.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/s1.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s1.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s2.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s2.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/s2.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s2.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s3.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s3.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/s3.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s3.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s4.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s4.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/s4.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s4.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s5.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s5.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/s5.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s5.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s6.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s6.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/s6.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s6.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s7.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s7.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/s7.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s7.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s8.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s8.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/s8.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s8.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s9.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s9.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/s9.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s9.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\search.png",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\search.png",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/search.png",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\images\\search.png"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\t1.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\t1.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/t1.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\t1.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\t2.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\t2.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/t2.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\t2.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\t3.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\t3.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/t3.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\t3.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\t4.jpg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\t4.jpg",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/t4.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\t4.jpg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\Thumbs.db",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\Thumbs.db",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "images/Thumbs.db",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Thumbs.db"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\bootstrap-3.1.1.min.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\bootstrap-3.1.1.min.js",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "js/bootstrap-3.1.1.min.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap-3.1.1.min.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\classie.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\classie.js",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "js/classie.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\js\\classie.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\creditly.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\creditly.js",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "js/creditly.js",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\js\\creditly.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\demo1.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\demo1.js",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "js/demo1.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\js\\demo1.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\easing.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\easing.js",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "js/easing.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\js\\easing.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\easy-responsive-tabs.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\easy-responsive-tabs.js",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "js/easy-responsive-tabs.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\js\\easy-responsive-tabs.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\imagezoom.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\imagezoom.js",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "js/imagezoom.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\js\\imagezoom.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\jquery.flexslider.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\jquery.flexslider.js",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "js/jquery.flexslider.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.flexslider.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\jquery-2.1.4.min.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\jquery-2.1.4.min.js",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "js/jquery-2.1.4.min.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-2.1.4.min.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\jquery-ui.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\jquery-ui.js",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "js/jquery-ui.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-ui.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\minicart.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\minicart.js",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "js/minicart.js",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\js\\minicart.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\modernizr-2.6.2.min.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\modernizr-2.6.2.min.js",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "js/modernizr-2.6.2.min.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\js\\modernizr-2.6.2.min.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\move-top.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\move-top.js",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "js/move-top.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\js\\move-top.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\responsiveslides.min.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\responsiveslides.min.js",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "js/responsiveslides.min.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\js\\responsiveslides.min.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\search.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\search.js",
       "SourceId": "Nhom8.QuanLyBanGiay.User",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanLyBanGiay.User",
       "RelativePath": "js/search.js",
       "AssetKind": "All",

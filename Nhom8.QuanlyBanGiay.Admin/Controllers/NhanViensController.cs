@@ -45,7 +45,9 @@ namespace Nhom8.QuanlyBanGiay.Admin.Controllers
         // GET: NhanViens/Create
         public IActionResult Create()
         {
-            return View();
+            var autoId = _context.AutoIds.SingleOrDefault(a => a.IdName == "NV");
+            
+               return View();
         }
 
         // POST: NhanViens/Create

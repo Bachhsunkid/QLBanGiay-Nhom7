@@ -10510,19 +10510,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hung\\.nuget\\packages\\": {}
+    "C:\\Users\\Quys\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\Nhom8.QuanLyBanGiay.User.csproj",
+      "projectUniqueName": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\Nhom8.QuanLyBanGiay.User.csproj",
       "projectName": "Nhom8.QuanLyBanGiay.User",
-      "projectPath": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\Nhom8.QuanLyBanGiay.User.csproj",
-      "packagesPath": "C:\\Users\\Hung\\.nuget\\packages\\",
-      "outputPath": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\obj\\",
+      "projectPath": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\Nhom8.QuanLyBanGiay.User.csproj",
+      "packagesPath": "C:\\Users\\Quys\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Hung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Quys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10586,7 +10591,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

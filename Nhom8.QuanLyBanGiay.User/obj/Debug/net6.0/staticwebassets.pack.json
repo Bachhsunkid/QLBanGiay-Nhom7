@@ -1,335 +1,335 @@
 {
   "Files": [
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nhom8.QuanLyBanGiay.User.bundle.scp.css",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nhom8.QuanLyBanGiay.User.bundle.scp.css",
       "PackagePath": "staticwebassets\\Nhom8.QuanLyBanGiay.User.bundle.scp.css"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\about.css",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\about.css",
       "PackagePath": "staticwebassets\\css\\about.css"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\checkout.css",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\checkout.css",
       "PackagePath": "staticwebassets\\css\\checkout.css"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\contact.css",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\contact.css",
       "PackagePath": "staticwebassets\\css\\contact.css"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\creditly.css",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\creditly.css",
       "PackagePath": "staticwebassets\\css\\creditly.css"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\customize.css",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\customize.css",
       "PackagePath": "staticwebassets\\css\\customize.css"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\easy-responsive-tabs.css",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\easy-responsive-tabs.css",
       "PackagePath": "staticwebassets\\css\\easy-responsive-tabs.css"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\flexslider.css",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\flexslider.css",
       "PackagePath": "staticwebassets\\css\\flexslider.css"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\font-awesome.css",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.css"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\jquery-ui1.css",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\jquery-ui1.css",
       "PackagePath": "staticwebassets\\css\\jquery-ui1.css"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\shop.css",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\shop.css",
       "PackagePath": "staticwebassets\\css\\shop.css"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\style7.css",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\css\\style7.css",
       "PackagePath": "staticwebassets\\css\\style7.css"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
       "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
       "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
       "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
       "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
       "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\3.jpeg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\3.jpeg",
       "PackagePath": "staticwebassets\\images\\3.jpeg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\Thumbs.db",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\Thumbs.db",
       "PackagePath": "staticwebassets\\images\\Thumbs.db"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\ab.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\ab.jpg",
       "PackagePath": "staticwebassets\\images\\ab.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\b1.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\b1.jpg",
       "PackagePath": "staticwebassets\\images\\b1.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\b2.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\b2.jpg",
       "PackagePath": "staticwebassets\\images\\b2.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\b3.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\b3.jpg",
       "PackagePath": "staticwebassets\\images\\b3.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\b4.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\b4.jpg",
       "PackagePath": "staticwebassets\\images\\b4.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\banner1.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\banner1.jpg",
       "PackagePath": "staticwebassets\\images\\banner1.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\banner2.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\banner2.jpg",
       "PackagePath": "staticwebassets\\images\\banner2.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\banner3.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\banner3.jpg",
       "PackagePath": "staticwebassets\\images\\banner3.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\banner4.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\banner4.jpg",
       "PackagePath": "staticwebassets\\images\\banner4.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\close.png",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\close.png",
       "PackagePath": "staticwebassets\\images\\close.png"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\close_1.JPG",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\close_1.JPG",
       "PackagePath": "staticwebassets\\images\\close_1.JPG"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\d1.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\d1.jpg",
       "PackagePath": "staticwebassets\\images\\d1.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\d2.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\d2.jpg",
       "PackagePath": "staticwebassets\\images\\d2.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\d3.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\d3.jpg",
       "PackagePath": "staticwebassets\\images\\d3.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g1.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g1.jpg",
       "PackagePath": "staticwebassets\\images\\g1.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g2.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g2.jpg",
       "PackagePath": "staticwebassets\\images\\g2.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g3.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g3.jpg",
       "PackagePath": "staticwebassets\\images\\g3.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g4.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g4.jpg",
       "PackagePath": "staticwebassets\\images\\g4.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g5.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g5.jpg",
       "PackagePath": "staticwebassets\\images\\g5.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g6.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\g6.jpg",
       "PackagePath": "staticwebassets\\images\\g6.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\left.png",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\left.png",
       "PackagePath": "staticwebassets\\images\\left.png"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\left_black.png",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\left_black.png",
       "PackagePath": "staticwebassets\\images\\left_black.png"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\move-top.png",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\move-top.png",
       "PackagePath": "staticwebassets\\images\\move-top.png"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\overlay.png",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\overlay.png",
       "PackagePath": "staticwebassets\\images\\overlay.png"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\paypal.png",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\paypal.png",
       "PackagePath": "staticwebassets\\images\\paypal.png"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\right.png",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\right.png",
       "PackagePath": "staticwebassets\\images\\right.png"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\right_black.png",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\right_black.png",
       "PackagePath": "staticwebassets\\images\\right_black.png"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s1.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s1.jpg",
       "PackagePath": "staticwebassets\\images\\s1.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s2.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s2.jpg",
       "PackagePath": "staticwebassets\\images\\s2.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s3.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s3.jpg",
       "PackagePath": "staticwebassets\\images\\s3.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s4.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s4.jpg",
       "PackagePath": "staticwebassets\\images\\s4.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s5.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s5.jpg",
       "PackagePath": "staticwebassets\\images\\s5.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s6.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s6.jpg",
       "PackagePath": "staticwebassets\\images\\s6.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s7.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s7.jpg",
       "PackagePath": "staticwebassets\\images\\s7.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s8.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s8.jpg",
       "PackagePath": "staticwebassets\\images\\s8.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s9.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\s9.jpg",
       "PackagePath": "staticwebassets\\images\\s9.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\search.png",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\search.png",
       "PackagePath": "staticwebassets\\images\\search.png"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\t1.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\t1.jpg",
       "PackagePath": "staticwebassets\\images\\t1.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\t2.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\t2.jpg",
       "PackagePath": "staticwebassets\\images\\t2.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\t3.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\t3.jpg",
       "PackagePath": "staticwebassets\\images\\t3.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\t4.jpg",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\images\\t4.jpg",
       "PackagePath": "staticwebassets\\images\\t4.jpg"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\bootstrap-3.1.1.min.js",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\bootstrap-3.1.1.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap-3.1.1.min.js"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\classie.js",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\classie.js",
       "PackagePath": "staticwebassets\\js\\classie.js"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\creditly.js",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\creditly.js",
       "PackagePath": "staticwebassets\\js\\creditly.js"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\demo1.js",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\demo1.js",
       "PackagePath": "staticwebassets\\js\\demo1.js"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\easing.js",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\easing.js",
       "PackagePath": "staticwebassets\\js\\easing.js"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\easy-responsive-tabs.js",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\easy-responsive-tabs.js",
       "PackagePath": "staticwebassets\\js\\easy-responsive-tabs.js"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\imagezoom.js",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\imagezoom.js",
       "PackagePath": "staticwebassets\\js\\imagezoom.js"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\jquery-2.1.4.min.js",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\jquery-2.1.4.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-2.1.4.min.js"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\jquery-ui.js",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\jquery-ui.js",
       "PackagePath": "staticwebassets\\js\\jquery-ui.js"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\jquery.flexslider.js",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\jquery.flexslider.js",
       "PackagePath": "staticwebassets\\js\\jquery.flexslider.js"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\minicart.js",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\minicart.js",
       "PackagePath": "staticwebassets\\js\\minicart.js"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\modernizr-2.6.2.min.js",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\modernizr-2.6.2.min.js",
       "PackagePath": "staticwebassets\\js\\modernizr-2.6.2.min.js"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\move-top.js",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\move-top.js",
       "PackagePath": "staticwebassets\\js\\move-top.js"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\responsiveslides.min.js",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\responsiveslides.min.js",
       "PackagePath": "staticwebassets\\js\\responsiveslides.min.js"
     },
     {
-      "Id": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\search.js",
+      "Id": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanLyBanGiay.User\\wwwroot\\js\\search.js",
       "PackagePath": "staticwebassets\\js\\search.js"
     },
     {

@@ -7,9 +7,9 @@ public partial class HoaDonNhap
 {
     public string MaHdn { get; set; } = null!;
 
-    public string MaNv { get; set; } = null!;
+    public string? MaNv { get; set; }
 
-    public string MaNcc { get; set; } = null!;
+    public string? MaNcc { get; set; }
 
     public DateTime? NgayNhap { get; set; }
 
@@ -17,7 +17,7 @@ public partial class HoaDonNhap
 
     public virtual ChiTietHdn? ChiTietHdn { get; set; }
 
-    public virtual NhaCungCap MaNccNavigation { get; set; } = null!;
+    public virtual NhaCungCap? MaNccNavigation { get; set; }
 
-    public virtual NhanVien MaNvNavigation { get; set; } = null!;
+    public virtual NhanVien? MaNvNavigation { get; set; }
 }

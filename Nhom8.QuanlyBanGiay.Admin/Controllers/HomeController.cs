@@ -24,6 +24,28 @@ namespace Nhom8.QuanlyBanGiay.Admin.Controllers
             var lstGiay = db.Giays.OrderBy(x => x.MaGiay).ToList();
             return View(lstGiay);
         }
+		public IActionResult HDN() 
+		{
+			var lstHDN = db.HoaDonNhaps.OrderBy(x => x.MaHdn).ToList();
+			return View(lstHDN);
+		}
+        public IActionResult HDB()
+        {
+            var lstHDB = db.HoaDonBans.OrderBy(x => x.MaHdb).ToList();
+            return View(lstHDB);
+        }
+        public IActionResult Login()
+		{
+			return View();
+		}
+		public IActionResult Register()
+		{
+			return View();
+		}
+        public IActionResult Password()
+        {
+            return View();
+        }
         public IActionResult Privacy()
 		{
 			return View();

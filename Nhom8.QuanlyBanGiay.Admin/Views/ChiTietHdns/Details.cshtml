@@ -1,0 +1,41 @@
+﻿@model Nhom8.QuanlyBanGiay.Admin.Models.ChiTietHdn
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Chi tiết hoá đơn nhập</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Mã hoá đơn nhập
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MaHdnNavigation.MaHdn)
+        </dd>
+        <dt class="col-sm-2">
+            Mã giày
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MaGiayNavigation.MaGiay)
+        </dd>
+        <dt class = "col-sm-2">
+            Số lượng
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SoLuong)
+        </dd>
+        <dt class = "col-sm-2">
+            Khuyến mại
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KhuyenMai)
+        </dd>             
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.MaHdn">Edit</a> |
+    <a asp-controller="Home" asp-action="HDN">Quay lại</a>
+</div>

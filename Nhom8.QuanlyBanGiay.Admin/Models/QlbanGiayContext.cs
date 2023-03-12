@@ -19,6 +19,8 @@ public partial class QlbanGiayContext : DbContext
 
     public virtual DbSet<Anh> Anhs { get; set; }
 
+    public virtual DbSet<AutoId> AutoIds { get; set; }
+
     public virtual DbSet<ChiTietGioHang> ChiTietGioHangs { get; set; }
 
     public virtual DbSet<ChiTietHdb> ChiTietHdbs { get; set; }
@@ -42,8 +44,7 @@ public partial class QlbanGiayContext : DbContext
     public virtual DbSet<NhanVien> NhanViens { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=DESKTOP-A8FKSRA\\SQLEXPRESS;Initial Catalog=QLBanGiay;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+        => optionsBuilder.UseSqlServer("Data Source=DESKTOP-AISAFVG\\SQLEXPRESS;Initial Catalog=QLBanGiay;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -72,6 +73,16 @@ public partial class QlbanGiayContext : DbContext
             entity.HasOne(d => d.MaGiayNavigation).WithMany(p => p.Anhs)
                 .HasForeignKey(d => d.MaGiay)
                 .HasConstraintName("FK_Anh_Giay");
+        });
+
+        modelBuilder.Entity<AutoId>(entity =>
+        {
+            entity.HasKey(e => e.IdName);
+
+            entity.ToTable("AutoId");
+
+            entity.Property(e => e.IdName).HasMaxLength(50);
+            entity.Property(e => e.Id).HasColumnName("id");
         });
 
         modelBuilder.Entity<ChiTietGioHang>(entity =>
@@ -215,12 +226,10 @@ public partial class QlbanGiayContext : DbContext
 
             entity.HasOne(d => d.MaKhNavigation).WithMany(p => p.HoaDonBans)
                 .HasForeignKey(d => d.MaKh)
-                .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_HoaDonBan_KhachHang");
 
             entity.HasOne(d => d.MaNvNavigation).WithMany(p => p.HoaDonBans)
                 .HasForeignKey(d => d.MaNv)
-                .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_HoaDonBan_NhanVien");
         });
 
@@ -244,12 +253,10 @@ public partial class QlbanGiayContext : DbContext
 
             entity.HasOne(d => d.MaNccNavigation).WithMany(p => p.HoaDonNhaps)
                 .HasForeignKey(d => d.MaNcc)
-                .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_HoaDonNhap_NhaCungCap");
 
             entity.HasOne(d => d.MaNvNavigation).WithMany(p => p.HoaDonNhaps)
                 .HasForeignKey(d => d.MaNv)
-                .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_HoaDonNhap_NhanVien");
         });
 

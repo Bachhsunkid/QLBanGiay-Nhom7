@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dgB+d3gb7gKZaESvG59XifboYUiU3fIKGR00OO+xUPQ=",
+  "Hash": "z+SWQZVlZ0WbAUnLfe2sIzzZfqVohwDju2DGmoSqz7I=",
   "Source": "Nhom8.QuanlyBanGiay.Admin",
   "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Nhom8.QuanlyBanGiay.Admin\\wwwroot",
       "Source": "Nhom8.QuanlyBanGiay.Admin",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Nhom8.QuanlyBanGiay.Admin.styles.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Nhom8.QuanlyBanGiay.Admin.styles.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "Nhom8.QuanlyBanGiay.Admin.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Nhom8.QuanlyBanGiay.Admin.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Nhom8.QuanlyBanGiay.Admin.styles.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nhom8.QuanlyBanGiay.Admin.bundle.scp.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nhom8.QuanlyBanGiay.Admin.bundle.scp.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "Nhom8.QuanlyBanGiay.Admin.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nhom8.QuanlyBanGiay.Admin.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nhom8.QuanlyBanGiay.Admin.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "admin/assets/demo/chart-area-demo.js",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\demo\\chart-area-demo.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "admin/assets/demo/chart-bar-demo.js",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\demo\\chart-bar-demo.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "admin/assets/demo/chart-pie-demo.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\demo\\chart-pie-demo.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "admin/assets/demo/datatables-demo.js",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\demo\\datatables-demo.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "admin/assets/img/error-404-monochrome.svg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\assets\\img\\error-404-monochrome.svg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\admin\\css\\styles.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\admin\\css\\styles.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "admin/css/styles.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\css\\styles.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\admin\\js\\datatables-simple-demo.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\admin\\js\\datatables-simple-demo.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "admin/js/datatables-simple-demo.js",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\datatables-simple-demo.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\admin\\js\\scripts.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\admin\\js\\scripts.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "admin/js/scripts.js",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\scripts.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\assets\\demo\\chart-area-demo.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\assets\\demo\\chart-area-demo.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "assets/demo/chart-area-demo.js",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\chart-area-demo.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\assets\\demo\\chart-bar-demo.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\assets\\demo\\chart-bar-demo.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "assets/demo/chart-bar-demo.js",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\chart-bar-demo.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\assets\\demo\\chart-pie-demo.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\assets\\demo\\chart-pie-demo.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "assets/demo/chart-pie-demo.js",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\chart-pie-demo.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\assets\\demo\\datatables-demo.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\assets\\demo\\datatables-demo.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "assets/demo/datatables-demo.js",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\datatables-demo.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\assets\\img\\error-404-monochrome.svg",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\assets\\img\\error-404-monochrome.svg",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "assets/img/error-404-monochrome.svg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\error-404-monochrome.svg"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\css\\styles1.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\css\\styles1.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "css/styles1.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles1.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\js\\datatables-simple-demo.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\js\\datatables-simple-demo.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "js/datatables-simple-demo.js",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\js\\datatables-simple-demo.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\js\\scripts.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\js\\scripts.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "js/scripts.js",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Nhom8.QuanlyBanGiay.Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Web\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Quys\\Source\\Repos\\QLBanGiay-Nhom7\\Nhom8.QuanlyBanGiay.Admin\\wwwroot\\",
       "BasePath": "_content/Nhom8.QuanlyBanGiay.Admin",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

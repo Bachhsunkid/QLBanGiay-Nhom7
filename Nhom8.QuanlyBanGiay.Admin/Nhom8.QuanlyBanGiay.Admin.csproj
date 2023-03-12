@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -7,6 +7,34 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="Views\Giays\Create.cshtml" />
+    <None Include="Views\Giays\Delete.cshtml" />
+    <None Include="Views\Giays\Details.cshtml" />
+    <None Include="Views\Giays\Edit.cshtml" />
+    <None Include="Views\Giays\Index.cshtml" />
+    <None Include="Views\Home\Chart.cshtml" />
+    <None Include="Views\Home\Index.cshtml" />
+    <None Include="Views\Home\LayoutDark.cshtml" />
+    <None Include="Views\Home\LayoutLight.cshtml" />
+    <None Include="Views\Home\Login.cshtml" />
+    <None Include="Views\Home\Page401.cshtml" />
+    <None Include="Views\Home\Page404.cshtml" />
+    <None Include="Views\Home\Page500.cshtml" />
+    <None Include="Views\Home\Password.cshtml" />
+    <None Include="Views\Home\Products.cshtml" />
+    <None Include="Views\Home\Register.cshtml" />
+    <None Include="Views\NhanViens\Create.cshtml" />
+    <None Include="Views\NhanViens\Delete.cshtml" />
+    <None Include="Views\NhanViens\Details.cshtml" />
+    <None Include="Views\NhanViens\Edit.cshtml" />
+    <None Include="Views\NhanViens\Index.cshtml" />
+    <None Include="Views\Shared\Error.cshtml" />
+    <None Include="Views\Shared\_Layout.cshtml" />
+    <None Include="Views\Shared\_LayoutIndex.cshtml" />
+    <None Include="Views\Shared\_LayoutProducts.cshtml" />
+    <None Include="Views\Shared\_ValidationScriptsPartial.cshtml" />
+    <None Include="Views\_ViewImports.cshtml" />
+    <None Include="Views\_ViewStart.cshtml" />
     <None Include="wwwroot\assets\demo\chart-area-demo.js" />
     <None Include="wwwroot\assets\demo\chart-bar-demo.js" />
     <None Include="wwwroot\assets\demo\chart-pie-demo.js" />

@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Nhom8.QuanlyBanGiay.Admin.Models.HoaDonBan>
+@{
+    ViewData["Title"] = "HDB";
+    Layout = "_LayoutHDB";
+}
+@foreach (var item in Model)
+{
+    <tr>
+        <td class="first">@Html.DisplayFor(modelItem => item.MaHdb)</td>
+        <td>@Html.DisplayFor(modelItem => item.MaNv)</td>
+        <td>@Html.DisplayFor(modelItem => item.MaKh)</td>
+        <td>@Html.DisplayFor(modelItem => item.NgayBan)</td>
+        <td>@Html.DisplayFor(modelItem => item.TrangThai)</td>
+        <td>@Html.DisplayFor(modelItem => item.TongTien)</td>
+        <td>
+            <a asp-action="Edit" asp-controller="HoaDonBans" asp-route-id="@item.MaHdb">Edit</a> |
+            <a asp-action="Delete" asp-controller="HoaDonBans" asp-route-id="@item.MaHdb">Delete</a> |
+            <a asp-action="Details" asp-controller="ChiTietHdbs" asp-route-id="@item.MaHdb">Details</a>
+        </td>
+    </tr>
+}
+

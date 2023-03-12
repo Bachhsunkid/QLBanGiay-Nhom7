@@ -1,0 +1,45 @@
+﻿@model Nhom8.QuanlyBanGiay.Admin.Models.HoaDonNhap
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Hoá đơn nhập</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            Ngày nhập
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NgayNhap)
+        </dd>
+        <dt class = "col-sm-2">
+            Tổng tiền
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TongTien)
+        </dd>
+        <dt class = "col-sm-2">
+            Mã nhà cung cấp
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MaNccNavigation.MaNcc)
+        </dd>
+        <dt class = "col-sm-2">
+            Mã nhân viên
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MaNvNavigation.MaNv)
+        </dd>
+    </dl>
+
+    <form style="margin-bottom:20px" asp-action="Delete">
+        <input type="hidden" asp-for="MaHdn" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="HDN" asp-controller="Home">Quay lại</a>
+    </form>
+</div>

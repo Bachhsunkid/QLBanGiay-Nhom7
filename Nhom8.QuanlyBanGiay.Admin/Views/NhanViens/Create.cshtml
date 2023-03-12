@@ -11,8 +11,8 @@
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="MaNv" class="control-label">Mã nhân viên</label>
-                <input asp-for="MaNv" class="form-control" />
+                <label asp-for="MaNv" class="control-label">Mã nhân viên</label>              
+                <input asp-for="MaNv" class="form-control" value="NV" />
                 <span asp-validation-for="MaNv" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -26,7 +26,7 @@
                 <span asp-validation-for="MatKhau" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="GioiTinh" class="control-label">Giới tính (Nam - 0 / Nữ - 1)</label>
+                <label asp-for="GioiTinh" class="control-label">Giới tính</label>               
                 <input asp-for="GioiTinh" class="form-control" />
                 <span asp-validation-for="GioiTinh" class="text-danger"></span>
             </div>
