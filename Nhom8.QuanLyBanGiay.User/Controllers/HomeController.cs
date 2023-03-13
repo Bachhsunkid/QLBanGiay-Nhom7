@@ -6,6 +6,8 @@ namespace Nhom8.QuanLyBanGiay.User.Controllers
 {
     public class HomeController : Controller
     {
+        QlbanGiayContext db = new QlbanGiayContext();
+
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
@@ -30,8 +32,9 @@ namespace Nhom8.QuanLyBanGiay.User.Controllers
 
         public IActionResult Shop()
         {
-            return View();
-        }
+			var ds_san_pham = db.Giays.ToList();
+			return View(ds_san_pham);
+		}
 
         public IActionResult Checkout()
         {
@@ -46,6 +49,11 @@ namespace Nhom8.QuanLyBanGiay.User.Controllers
         public IActionResult Contact()
         {
             return View();
+        }
+
+        public IActionResult HienSanPham() {
+            var ds_san_pham = db.Giays.ToList();
+            return View(ds_san_pham);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
