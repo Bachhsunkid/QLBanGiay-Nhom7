@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Nhom8.QuanLyBanGiay.User/1.0.0": {
+        "runtime": {
+          "Nhom8.QuanLyBanGiay.User.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nhom8.QuanLyBanGiay.User/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
